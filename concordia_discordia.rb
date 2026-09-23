@@ -6,22 +6,16 @@
 # 48-63 DISCORDIA | 64-79 PANEM ET CIRCENSES | 80-95 SOMNUS
 # 96-111 VIGILANDO / AGENDO | 112-127 NON NOBIS SOLUM / DECISIO
 #
-# Song 1 -- die Abwehr. Nicht der Zusammenbruch steht im
-# Mittelpunkt, sondern was der Einzelne gegen ihn tun kann.
+# Die Abwehr. Nicht der Zusammenbruch steht im Mittelpunkt,
+# sondern was der Einzelne gegen ihn tun kann.
 #
 # Die musikalische Idee folgt Sallust: CONCORDIA laesst aus
 # einer einzelnen Stimme mehrere werden, DISCORDIA zerlegt
-# dieselben Stimmen wieder. PANEM ET CIRCENSES ist bewusst
-# nicht boese: Die Versuchung klingt angenehm und hypnotisch.
+# dieselben Stimmen wieder. PANEM ET CIRCENSES ist die
+# Versuchung, die angenehm und hypnotisch klingt.
 # PRINCIPIIS OBSTATE laeuft als Warnung durch den ganzen
-# Track -- schon bei Takt 2/3, vor jedem Kontext. Die Antwort
-# ist kein Heldentum, sondern Handlung: VIGILANDO. AGENDO.
-# BENE CONSULENDO.
-#
-# Anders als Fragor Noctis endet das Stueck auf D -- nicht
-# als Sieg, sondern als bewusste Entscheidung. Darueber
-# spricht Sallust selbst (Falso queritur, Takt 119): Das
-# letzte Wort des Tracks ist "animus".
+# Track. Die Antwort ist kein Heldentum, sondern Handlung: 
+# VIGILANDO. AGENDO. BENE CONSULENDO.
 #
 # Run:  run_file ".../R07_Concordia_Discordia/concordia.rb"
 # (Stop vor Run!)
