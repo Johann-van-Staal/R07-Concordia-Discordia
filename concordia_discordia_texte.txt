@@ -1,0 +1,90 @@
+CONCORDIA/DISCORDIA -- DIE TEXTE
+================================
+Alle gesprochenen Texte des Stuecks "Concordia/Discordia",
+mit Uebersetzung und Quelle. Thema: die Abwehr --
+nicht der Zusammenbruch steht im Mittelpunkt, sondern die Frage,
+was der Einzelne gegen ihn tun kann.
+
+1. PRINCIPIIS OBSTATE / OBSTATE
+   (vocal_principiis_obstate, vocal_obstate)
+---------------------------------------------------------------
+
+  Principiis obstate!    (Wehret den Anfaengen!)
+  Obstate!               (Widersteht!)
+
+Quelle: Ovid, Remedia Amoris 91 (gemeinfrei): "Principiis
+obsta; sero medicina paratur" -- "Wehre den Anfaengen; zu
+spaet wird die Medizin bereitet." Ovid schreibt den Singular
+(obsta); der Plural OBSTATE ist eine Adaption von Johann van
+Staal: Die Warnung richtet sich an die Vielen.
+
+2. NON NOBIS SOLUM (vocal_non_nobis_solum)
+---------------------------------------------------------------
+
+  Non nobis solum!    (Nicht fuer uns allein!)
+
+Quelle der Formel: Cicero, De officiis I,22 (gemeinfrei):
+"Non nobis solum nati sumus, ortusque nostri partem patria
+vindicat, partem amici" -- "Nicht fuer uns allein sind wir
+geboren; einen Teil unseres Daseins beansprucht das Vater-
+land, einen Teil die Freunde." Verantwortung reicht ueber
+den Einzelnen hinaus -- sie ist die Voraussetzung der
+Concordia, nicht ihre Folge.
+
+
+3. CONCORDIA (vocal_concordia)
+---------------------------------------------------------------
+
+  Concordia!    (Eintracht!)
+
+4. DISCORDIA (vocal_discordia)
+---------------------------------------------------------------
+  Discordia!    (Zwietracht!)
+
+Quelle beider Formeln: Sallust, Bellum Iugurthinum 10,6
+(gemeinfrei): "Concordia parvae res crescunt, discordia
+maximae dilabuntur" -- "Durch Eintracht wachsen kleine
+Dinge, durch Zwietracht zerfallen die groessten." 
+
+
+5. PANEM ET CIRCENSES (vocal_panem_et_circenses)
+---------------------------------------------------------------
+
+  Panem et circenses!    (Brot und Spiele!)
+
+Quelle: Juvenal, Satiren 10,77-81 (gemeinfrei): Das Volk,
+das einst Herrschaft, Aemter und Legionen vergab, wuenscht
+sich nur noch zweierlei -- panem et circenses.
+
+6. VIGILANDO / AGENDO / BENE CONSULENDO
+---------------------------------------------------------------
+
+  Vigilando.         (Durch Wachsamkeit.)
+  Agendo.            (Durch Handeln.)
+  Bene consulendo.   (Durch gutes Beraten.)
+
+Quelle: Sallust, Catilina 52 (gemeinfrei), aus der Rede
+Catos: "Non votis neque suppliciis muliebribus auxilia
+deorum parantur; vigilando, agendo, bene consulendo
+prospera omnia cedunt" -- "Nicht durch Geluebde und
+weibisches Flehen kommt die Hilfe der Goetter; durch
+Wachen, Handeln, gutes Beraten gelingt alles."
+
+7. FALSO QUERITUR (vocal_falso_queritur)
+---------------------------------------------------------------
+
+  Falso queritur de natura sua genus humanum,
+  quod inbecilla atque aevi brevis
+  forte potius quam virtute regatur.
+  Sed dux atque imperator vitae mortalium animus est.
+
+  (Zu Unrecht beklagt sich das Menschengeschlecht ueber
+  seine Natur -- dass sie schwach und kurzlebig sei und
+  vom Zufall statt von der eigenen Tuechtigkeit regiert
+  werde. Aber Fuehrer und Befehlshaber des Lebens der
+  Sterblichen ist der Geist.)
+
+Quelle: Sallust, Bellum Iugurthinum 1,1 und 1,3 (gemein-
+frei) -- der Anfang des Geschichtswerks: Das Klagen ist
+falsch adressiert; nicht die Umstaende regieren dich,
+sondern dein animus, wenn du ihn laesst.
